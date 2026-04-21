@@ -4,5 +4,9 @@ export default defineAppConfig({
       primary: 'green',
       neutral: 'slate'
     }
+  },
+
+  api: {
+    ydk2json: 'https://api.unbancircular.com'
   }
 })
